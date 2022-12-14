@@ -59,8 +59,8 @@ Currently working through CS50P, [Intro to programming with python](https://cs50
 -------------------------------
 
 ### WEEK 5 : [Unit Tests](https://cs50.harvard.edu/python/2022/psets/5/)
-| Problem Set|
-| ----------- | ----------- |
+|Problem Set|
+| ----------- |
 |Testing my twittr|
 |Back to the Bank|
 |Re-requesting a Vanity Plate|
