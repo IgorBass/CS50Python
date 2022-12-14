@@ -1,6 +1,6 @@
 # CS50 Python
 
-Currently working through CS50P, [Intro to programming with python](https://cs50.harvard.edu/python/2022/). I'll be tracking my problem sets and progress here.
+[Intro to programming with python](https://cs50.harvard.edu/python/2022/). 
 
 
 ### WEEK 0 : [Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
